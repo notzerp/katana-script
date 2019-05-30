@@ -1,6 +1,6 @@
 rem Redshift for Katana script
 
-set "KATANA_VERSION=2.6v1"
+set "KATANA_VERSION=3.1v2"
 set "REDSHIFT4KATANA_VERSION=2.6v1"
 
 set "KATANA_HOME=D:\Katana3.1v2"
